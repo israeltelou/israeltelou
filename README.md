@@ -18,5 +18,5 @@ I am passionate about securing critical infrastructures, network hardening, and 
 ---
 
 ### 📬 Connect with me
-- 💼 **LinkedIn:** linkedin.com/in/israeltelou/
+- 💼 **LinkedIn:** linkedin.com/in/israeltelou
 - 📧 **Email:** telouisrael@gmail.com
